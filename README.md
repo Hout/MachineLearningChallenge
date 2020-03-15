@@ -2,7 +2,6 @@
 
 Solution for the challenge.
 
-|-------------|-------------|
 | Source file | Description |
 |-------------|-------------|
 | Get_data.ipynb | Get the data from Kaggle and unpack |
